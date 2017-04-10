@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/dnguy078/kube_demo/app",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Deps": []
+}
