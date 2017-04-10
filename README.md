@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UD615: Scalable Microservices with Kubernetes
 
 This is the code for [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615).  In this course you will learn how to:
@@ -25,3 +26,6 @@ App is an example 12 Facter application that we'll be using throughout the cours
   * [Docker](https://docs.docker.com)
   * [etcd](https://coreos.com/docs/distributed-configuration/getting-started-with-etcd)
   * [nginx](http://nginx.org)
+=======
+# kube_demo
+>>>>>>> aa4eb9afe79f1a6b92551e114a096af9600366f3
