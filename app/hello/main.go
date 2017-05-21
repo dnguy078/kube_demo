@@ -23,7 +23,7 @@ func main() {
 	)
 	flag.Parse()
 
-	log.Println("Starting server...")
+	log.Println("Starting server...crowdbotics")
 	log.Printf("Health service listening on %s", *healthAddr)
 	log.Printf("HTTP service listening on %s", *httpAddr)
 
